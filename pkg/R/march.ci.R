@@ -48,6 +48,7 @@ march.bailey.ci <- function(ni,N,alpha,k){
 }
 
 
+
 march.ci.h.A <- function(n,ni){
   (ni-1/8)/(n+1/8)
 }
